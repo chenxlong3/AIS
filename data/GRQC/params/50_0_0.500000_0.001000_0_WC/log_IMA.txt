@@ -1,0 +1,4 @@
+Original Inf: 607.175
+->Time used (sec) for operation [Init seed cov]: 0.181844
+--->Time used (sec) for process [AIS]: 0.280188
+Result by AIS: 718.062

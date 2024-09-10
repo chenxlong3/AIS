@@ -1,0 +1,2 @@
+--->Time used (sec) for process [UINF../data/GRQC/]: 0.227049
+Result by UINF: 648.285

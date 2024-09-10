@@ -1,0 +1,2 @@
+--->Time used (sec) for process [PROB../data/GRQC/]: 0.00540044
+Result by PROB: 664.521

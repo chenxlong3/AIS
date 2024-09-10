@@ -1,0 +1,2 @@
+--->Time used (sec) for process [RAND../data/GRQC/]: 0.00818597
+Result by RAND: 641.127

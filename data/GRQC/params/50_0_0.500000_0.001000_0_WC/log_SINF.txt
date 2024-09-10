@@ -1,0 +1,2 @@
+--->Time used (sec) for process [SINF../data/GRQC/]: 0.189441
+Result by SINF: 636.794

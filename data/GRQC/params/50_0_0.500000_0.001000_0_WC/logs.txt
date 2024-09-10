@@ -1,0 +1,4 @@
+->Time used (sec) for operation [RR set generation]: 5.48422
+--->Time used (sec) until operation [IMA]: 5.76524
+->Time used (sec) for operation [Select by outdeg]: 0.666539
+->Time used (sec) for operation [Select by prob]: 0.0118159

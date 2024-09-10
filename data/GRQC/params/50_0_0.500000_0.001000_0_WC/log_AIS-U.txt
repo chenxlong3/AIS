@@ -1,0 +1,2 @@
+--->Time used (sec) for process [AIS-U../data/GRQC/]: 0.204993
+Result by AIS-U: 711.812

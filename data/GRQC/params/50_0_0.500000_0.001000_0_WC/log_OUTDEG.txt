@@ -1,0 +1,2 @@
+--->Time used (sec) for process [OUTDEG../data/GRQC/]: 0.00308701
+Result by OUTDEG: 610.035
